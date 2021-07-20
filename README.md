@@ -3,6 +3,7 @@ This repo helps in establishing JDBC connections with mySQL in very less time.
 
 Just one need to change the url,uname,pass accroding to their own mySql details.
 
+In this Example I had 3 columns so used pointer rs.next() three times .... You can  use the correct dataType and reapte the same as many times required!
 
 
 ## 7 Steps to remember in JDBC:
